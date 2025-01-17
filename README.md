@@ -1,4 +1,4 @@
-# --Image-Classification-with-Caltech-101-Dataset
+## Image-Classification-with-Caltech-101-Dataset
 Image Classification with Caltech-101 Dataset and Explainability using Grad-CAM 
 
 # Objective
@@ -7,13 +7,13 @@ classification using the Caltech-101 dataset. Students will also learn to apply
 Explainable AI (XAI) techniques, specifically Grad-CAM, to visualize model
 decision-making. 
 
-Prerequisites
+# Prerequisites
 • Basic knowledge of Python programming.
 • Familiarity with machine learning and deep learning concepts.
 • Understanding of Convolutional Neural Networks (CNNs).
 • Basic knowledge of Explainable AI (XAI).
 
-Part 1: Introduction to Caltech-101 Dataset
+# Part 1: Introduction to Caltech-101 Dataset
 Dataset Overview
 • Caltech-101 contains images from 101 object categories and 1 background
 category.
