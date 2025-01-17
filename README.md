@@ -8,7 +8,7 @@ Explainable AI (XAI) techniques, specifically Grad-CAM, to visualize model
 decision-making. 
 
 ## Prerequisites
-• Basic knowledge of Python programming.
+• Basic knowledge of Python programming.<br>
 • Familiarity with machine learning and deep learning concepts.
 • Understanding of Convolutional Neural Networks (CNNs).
 • Basic knowledge of Explainable AI (XAI).
